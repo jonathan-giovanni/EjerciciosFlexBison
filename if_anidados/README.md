@@ -10,14 +10,14 @@
       ;
     stmt:
       ';'
-      | expr ';'				            { $$ = $1; }
-      | PRINT expr ';'			            { printf("%d\n", $2); }
-      | ID '=' expr ';' 			        { sym[$1] = $3; }
-      | EXIT_COMMAND ';' 			        { exit(EXIT_SUCCESS);}
+      | expr ';'				{ $$ = $1; }
+      | PRINT expr ';'			{ printf("%d\n", $2); }
+      | ID '=' expr ';' 			{ sym[$1] = $3; }
+      | EXIT_COMMAND ';' 			{ exit(EXIT_SUCCESS);}
       | WHILE '(' expr ')' stmt		
       | IF '(' expr ')' stmt %prec IFX	
       | IF '(' expr ')' stmt ELSE stmt	
-      | '{' stmt_list '}'              	    { $$ = $2; }
+      | '{' stmt_list '}'              	{ $$ = $2; }
       ;
     stmt_list:
       stmt                                  { $$ = $1; }
