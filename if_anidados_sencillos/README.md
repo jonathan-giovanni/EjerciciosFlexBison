@@ -21,7 +21,7 @@
 	  if b then
 	     c
 	  else
-             d
+                d
 
 <b>Uso</b>
 * Ubicarse dentro del directorio del proyecto en la consola
