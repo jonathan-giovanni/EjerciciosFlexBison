@@ -16,11 +16,12 @@
     %%
 <b>Entrada de prueba:</b> 
 
-if a then
-  if b then
-		c
-	else
-	  d
+
+	if a then
+	  if b then
+	     c
+	  else
+             d
 
 <b>Uso</b>
 * Ubicarse dentro del directorio del proyecto en la consola
