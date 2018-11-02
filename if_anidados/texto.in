@@ -1,0 +1,14 @@
+a=20;
+print a;
+if(2>4)
+	{
+	print a;
+	print a+5;
+	}
+else
+	{
+	b=10+a;
+	print 5;
+	}
+print 100;
+exit;
