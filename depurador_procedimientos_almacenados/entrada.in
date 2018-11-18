@@ -1,0 +1,33 @@
+DELIMITER //
+
+	CREATE PROCEDURE pa_actores_cantidad2()
+	BEGIN
+		DECLARE actores INT;
+		select * from mangs;
+		select id from tabla;
+		select id, nombre from tabla;
+		select id, nombre, Apellido from tabla;
+		select * from tabla where id=1;
+		select * from tabla where id='1';
+		select * from tabla where id="1";
+		select * from tabla where nombre="Vanessa";
+		select * from tabla where nombre='Vanessa';
+		select numcel from tabla where edad>18 and sexo='femenino';
+		SELEcT numcel, nombre FROM tabla WHERE edad>17+1 AND edad<=40 OR edad=17.5;
+		
+		INSERT INTO tbl_name (col1,col2, COL3) VALUES(15,'F',dato * 1);
+		INSERT INTO tbl_name VALUES(null,'F',dato * 1, NULL, "Descripcion", 5.4);
+		INSERT INTO tbl_name VALUES(1,20.0,3-1, a+b, "3", '5.4');
+		
+		DELETE FROM tabla WHERE id=33;
+		DELETE FROM somelog WHERE user = 'jcole';
+		DELETE FROM sotra_tabla WHERE privileges_user = 1 and status="false";
+		
+		UPDATE t1 SET col1 = col1 + t1.col2 / 2 + 0.5;
+		UPDATE t1 SET col1 = col1 + 1, col2 = col1;
+		UPDATE t SET id = id + 1;
+		UPDATE items SET price=price + price*0.15 WHERE tipo = variable;
+
+	END
+//
+DELIMITER ;
