@@ -1,0 +1,748 @@
+--------------
+select * from categoria
+--------------
+
++--------------+-----------------+
+| id_categoria | nombre          |
++--------------+-----------------+
+|            1 | alimentos       |
+|            2 | muebles         |
+|            3 | electronicos    |
+|            4 | pesca           |
+|            5 | pesca           |
+|            6 | opciones        |
+|            7 | electricos      |
+|            8 | otro2           |
+|            9 | alimentos2      |
+|           10 | alimento3       |
+|           11 | alimento4       |
+|           12 | alimentos5      |
+|           13 | alimentos6      |
+|           14 | cat3            |
+|           15 | ultimo          |
+|           16 | alimentos       |
+|           17 | muebles         |
+|           18 | electronicos    |
+|           19 | alimentos       |
+|           20 | muebles         |
+|           21 | electronicos    |
+|           22 | alimentos       |
+|           23 | muebles         |
+|           24 | electronicos    |
+|           25 | alimentos       |
+|           26 | muebles         |
+|           27 | electronicos    |
+|           28 | alimentos       |
+|           29 | muebles         |
+|           30 | electronicos    |
+|           31 | alimentos       |
+|           32 | muebles         |
+|           33 | electronicos    |
+|           34 | alimentos       |
+|           35 | muebles         |
+|           36 | electronicos    |
+|           37 | alimentos       |
+|           38 | muebles         |
+|           39 | electronicos    |
+|           40 | alimentos       |
+|           41 | muebles         |
+|           42 | electronicos    |
+|           43 | alimentos       |
+|           44 | muebles         |
+|           45 | electronicos    |
+|           46 | alimentos       |
+|           47 | muebles         |
+|           48 | electronicos    |
+|           49 | final           |
+|           50 | alimentos       |
+|           51 | muebles         |
+|           52 | electronicos    |
+|           53 | electronicos123 |
+|           54 | electronicos123 |
+|           55 | electronicos123 |
+|           56 | electronicos123 |
+|           57 | pepe            |
+|           58 | pepe            |
+|           59 | pepe            |
+|           60 | pepe            |
++--------------+-----------------+
+60 rows in set (0.00 sec)
+
+--------------
+select * from categoria
+--------------
+
++--------------+-----------------+
+| id_categoria | nombre          |
++--------------+-----------------+
+|            1 | alimentos       |
+|            2 | muebles         |
+|            3 | electronicos    |
+|            4 | pesca           |
+|            5 | pesca           |
+|            6 | opciones        |
+|            7 | electricos      |
+|            8 | otro2           |
+|            9 | alimentos2      |
+|           10 | alimento3       |
+|           11 | alimento4       |
+|           12 | alimentos5      |
+|           13 | alimentos6      |
+|           14 | cat3            |
+|           15 | ultimo          |
+|           16 | alimentos       |
+|           17 | muebles         |
+|           18 | electronicos    |
+|           19 | alimentos       |
+|           20 | muebles         |
+|           21 | electronicos    |
+|           22 | alimentos       |
+|           23 | muebles         |
+|           24 | electronicos    |
+|           25 | alimentos       |
+|           26 | muebles         |
+|           27 | electronicos    |
+|           28 | alimentos       |
+|           29 | muebles         |
+|           30 | electronicos    |
+|           31 | alimentos       |
+|           32 | muebles         |
+|           33 | electronicos    |
+|           34 | alimentos       |
+|           35 | muebles         |
+|           36 | electronicos    |
+|           37 | alimentos       |
+|           38 | muebles         |
+|           39 | electronicos    |
+|           40 | alimentos       |
+|           41 | muebles         |
+|           42 | electronicos    |
+|           43 | alimentos       |
+|           44 | muebles         |
+|           45 | electronicos    |
+|           46 | alimentos       |
+|           47 | muebles         |
+|           48 | electronicos    |
+|           49 | final           |
+|           50 | alimentos       |
+|           51 | muebles         |
+|           52 | electronicos    |
+|           53 | electronicos123 |
+|           54 | electronicos123 |
+|           55 | electronicos123 |
+|           56 | electronicos123 |
+|           57 | pepe            |
+|           58 | pepe            |
+|           59 | pepe            |
+|           60 | pepe            |
++--------------+-----------------+
+60 rows in set (0.00 sec)
+
+--------------
+sd
+--------------
+
+--------------
+select * from tabla
+--------------
+
+--------------
+select * from categoria
+--------------
+
++--------------+-----------------+
+| id_categoria | nombre          |
++--------------+-----------------+
+|            1 | alimentos       |
+|            2 | muebles         |
+|            3 | electronicos    |
+|            4 | pesca           |
+|            5 | pesca           |
+|            6 | opciones        |
+|            7 | electricos      |
+|            8 | otro2           |
+|            9 | alimentos2      |
+|           10 | alimento3       |
+|           11 | alimento4       |
+|           12 | alimentos5      |
+|           13 | alimentos6      |
+|           14 | cat3            |
+|           15 | ultimo          |
+|           16 | alimentos       |
+|           17 | muebles         |
+|           18 | electronicos    |
+|           19 | alimentos       |
+|           20 | muebles         |
+|           21 | electronicos    |
+|           22 | alimentos       |
+|           23 | muebles         |
+|           24 | electronicos    |
+|           25 | alimentos       |
+|           26 | muebles         |
+|           27 | electronicos    |
+|           28 | alimentos       |
+|           29 | muebles         |
+|           30 | electronicos    |
+|           31 | alimentos       |
+|           32 | muebles         |
+|           33 | electronicos    |
+|           34 | alimentos       |
+|           35 | muebles         |
+|           36 | electronicos    |
+|           37 | alimentos       |
+|           38 | muebles         |
+|           39 | electronicos    |
+|           40 | alimentos       |
+|           41 | muebles         |
+|           42 | electronicos    |
+|           43 | alimentos       |
+|           44 | muebles         |
+|           45 | electronicos    |
+|           46 | alimentos       |
+|           47 | muebles         |
+|           48 | electronicos    |
+|           49 | final           |
+|           50 | alimentos       |
+|           51 | muebles         |
+|           52 | electronicos    |
+|           53 | electronicos123 |
+|           54 | electronicos123 |
+|           55 | electronicos123 |
+|           56 | electronicos123 |
+|           57 | pepe            |
+|           58 | pepe            |
+|           59 | pepe            |
+|           60 | pepe            |
++--------------+-----------------+
+60 rows in set (0.00 sec)
+
+--------------
+select * from categoria
+
+sdsd
+--------------
+
++--------------+-----------------+
+| id_categoria | nombre          |
++--------------+-----------------+
+|            1 | alimentos       |
+|            2 | muebles         |
+|            3 | electronicos    |
+|            4 | pesca           |
+|            5 | pesca           |
+|            6 | opciones        |
+|            7 | electricos      |
+|            8 | otro2           |
+|            9 | alimentos2      |
+|           10 | alimento3       |
+|           11 | alimento4       |
+|           12 | alimentos5      |
+|           13 | alimentos6      |
+|           14 | cat3            |
+|           15 | ultimo          |
+|           16 | alimentos       |
+|           17 | muebles         |
+|           18 | electronicos    |
+|           19 | alimentos       |
+|           20 | muebles         |
+|           21 | electronicos    |
+|           22 | alimentos       |
+|           23 | muebles         |
+|           24 | electronicos    |
+|           25 | alimentos       |
+|           26 | muebles         |
+|           27 | electronicos    |
+|           28 | alimentos       |
+|           29 | muebles         |
+|           30 | electronicos    |
+|           31 | alimentos       |
+|           32 | muebles         |
+|           33 | electronicos    |
+|           34 | alimentos       |
+|           35 | muebles         |
+|           36 | electronicos    |
+|           37 | alimentos       |
+|           38 | muebles         |
+|           39 | electronicos    |
+|           40 | alimentos       |
+|           41 | muebles         |
+|           42 | electronicos    |
+|           43 | alimentos       |
+|           44 | muebles         |
+|           45 | electronicos    |
+|           46 | alimentos       |
+|           47 | muebles         |
+|           48 | electronicos    |
+|           49 | final           |
+|           50 | alimentos       |
+|           51 | muebles         |
+|           52 | electronicos    |
+|           53 | electronicos123 |
+|           54 | electronicos123 |
+|           55 | electronicos123 |
+|           56 | electronicos123 |
+|           57 | pepe            |
+|           58 | pepe            |
+|           59 | pepe            |
+|           60 | pepe            |
++--------------+-----------------+
+60 rows in set (0.00 sec)
+
+--------------
+select * from categoria
+
+sdsd
+--------------
+
++--------------+-----------------+
+| id_categoria | nombre          |
++--------------+-----------------+
+|            1 | alimentos       |
+|            2 | muebles         |
+|            3 | electronicos    |
+|            4 | pesca           |
+|            5 | pesca           |
+|            6 | opciones        |
+|            7 | electricos      |
+|            8 | otro2           |
+|            9 | alimentos2      |
+|           10 | alimento3       |
+|           11 | alimento4       |
+|           12 | alimentos5      |
+|           13 | alimentos6      |
+|           14 | cat3            |
+|           15 | ultimo          |
+|           16 | alimentos       |
+|           17 | muebles         |
+|           18 | electronicos    |
+|           19 | alimentos       |
+|           20 | muebles         |
+|           21 | electronicos    |
+|           22 | alimentos       |
+|           23 | muebles         |
+|           24 | electronicos    |
+|           25 | alimentos       |
+|           26 | muebles         |
+|           27 | electronicos    |
+|           28 | alimentos       |
+|           29 | muebles         |
+|           30 | electronicos    |
+|           31 | alimentos       |
+|           32 | muebles         |
+|           33 | electronicos    |
+|           34 | alimentos       |
+|           35 | muebles         |
+|           36 | electronicos    |
+|           37 | alimentos       |
+|           38 | muebles         |
+|           39 | electronicos    |
+|           40 | alimentos       |
+|           41 | muebles         |
+|           42 | electronicos    |
+|           43 | alimentos       |
+|           44 | muebles         |
+|           45 | electronicos    |
+|           46 | alimentos       |
+|           47 | muebles         |
+|           48 | electronicos    |
+|           49 | final           |
+|           50 | alimentos       |
+|           51 | muebles         |
+|           52 | electronicos    |
+|           53 | electronicos123 |
+|           54 | electronicos123 |
+|           55 | electronicos123 |
+|           56 | electronicos123 |
+|           57 | pepe            |
+|           58 | pepe            |
+|           59 | pepe            |
+|           60 | pepe            |
++--------------+-----------------+
+60 rows in set (0.00 sec)
+
+--------------
+select * from categoria
+--------------
+
++--------------+-----------------+
+| id_categoria | nombre          |
++--------------+-----------------+
+|            1 | alimentos       |
+|            2 | muebles         |
+|            3 | electronicos    |
+|            4 | pesca           |
+|            5 | pesca           |
+|            6 | opciones        |
+|            7 | electricos      |
+|            8 | otro2           |
+|            9 | alimentos2      |
+|           10 | alimento3       |
+|           11 | alimento4       |
+|           12 | alimentos5      |
+|           13 | alimentos6      |
+|           14 | cat3            |
+|           15 | ultimo          |
+|           16 | alimentos       |
+|           17 | muebles         |
+|           18 | electronicos    |
+|           19 | alimentos       |
+|           20 | muebles         |
+|           21 | electronicos    |
+|           22 | alimentos       |
+|           23 | muebles         |
+|           24 | electronicos    |
+|           25 | alimentos       |
+|           26 | muebles         |
+|           27 | electronicos    |
+|           28 | alimentos       |
+|           29 | muebles         |
+|           30 | electronicos    |
+|           31 | alimentos       |
+|           32 | muebles         |
+|           33 | electronicos    |
+|           34 | alimentos       |
+|           35 | muebles         |
+|           36 | electronicos    |
+|           37 | alimentos       |
+|           38 | muebles         |
+|           39 | electronicos    |
+|           40 | alimentos       |
+|           41 | muebles         |
+|           42 | electronicos    |
+|           43 | alimentos       |
+|           44 | muebles         |
+|           45 | electronicos    |
+|           46 | alimentos       |
+|           47 | muebles         |
+|           48 | electronicos    |
+|           49 | final           |
+|           50 | alimentos       |
+|           51 | muebles         |
+|           52 | electronicos    |
+|           53 | electronicos123 |
+|           54 | electronicos123 |
+|           55 | electronicos123 |
+|           56 | electronicos123 |
+|           57 | pepe            |
+|           58 | pepe            |
+|           59 | pepe            |
+|           60 | pepe            |
++--------------+-----------------+
+60 rows in set (0.00 sec)
+
+--------------
+sdsd
+--------------
+
+--------------
+select * from categoria
+--------------
+
++--------------+-----------------+
+| id_categoria | nombre          |
++--------------+-----------------+
+|            1 | alimentos       |
+|            2 | muebles         |
+|            3 | electronicos    |
+|            4 | pesca           |
+|            5 | pesca           |
+|            6 | opciones        |
+|            7 | electricos      |
+|            8 | otro2           |
+|            9 | alimentos2      |
+|           10 | alimento3       |
+|           11 | alimento4       |
+|           12 | alimentos5      |
+|           13 | alimentos6      |
+|           14 | cat3            |
+|           15 | ultimo          |
+|           16 | alimentos       |
+|           17 | muebles         |
+|           18 | electronicos    |
+|           19 | alimentos       |
+|           20 | muebles         |
+|           21 | electronicos    |
+|           22 | alimentos       |
+|           23 | muebles         |
+|           24 | electronicos    |
+|           25 | alimentos       |
+|           26 | muebles         |
+|           27 | electronicos    |
+|           28 | alimentos       |
+|           29 | muebles         |
+|           30 | electronicos    |
+|           31 | alimentos       |
+|           32 | muebles         |
+|           33 | electronicos    |
+|           34 | alimentos       |
+|           35 | muebles         |
+|           36 | electronicos    |
+|           37 | alimentos       |
+|           38 | muebles         |
+|           39 | electronicos    |
+|           40 | alimentos       |
+|           41 | muebles         |
+|           42 | electronicos    |
+|           43 | alimentos       |
+|           44 | muebles         |
+|           45 | electronicos    |
+|           46 | alimentos       |
+|           47 | muebles         |
+|           48 | electronicos    |
+|           49 | final           |
+|           50 | alimentos       |
+|           51 | muebles         |
+|           52 | electronicos    |
+|           53 | electronicos123 |
+|           54 | electronicos123 |
+|           55 | electronicos123 |
+|           56 | electronicos123 |
+|           57 | pepe            |
+|           58 | pepe            |
+|           59 | pepe            |
+|           60 | pepe            |
++--------------+-----------------+
+60 rows in set (0.00 sec)
+
+--------------
+sdsd
+--------------
+
+--------------
+select * from categoria
+--------------
+
++--------------+-----------------+
+| id_categoria | nombre          |
++--------------+-----------------+
+|            1 | alimentos       |
+|            2 | muebles         |
+|            3 | electronicos    |
+|            4 | pesca           |
+|            5 | pesca           |
+|            6 | opciones        |
+|            7 | electricos      |
+|            8 | otro2           |
+|            9 | alimentos2      |
+|           10 | alimento3       |
+|           11 | alimento4       |
+|           12 | alimentos5      |
+|           13 | alimentos6      |
+|           14 | cat3            |
+|           15 | ultimo          |
+|           16 | alimentos       |
+|           17 | muebles         |
+|           18 | electronicos    |
+|           19 | alimentos       |
+|           20 | muebles         |
+|           21 | electronicos    |
+|           22 | alimentos       |
+|           23 | muebles         |
+|           24 | electronicos    |
+|           25 | alimentos       |
+|           26 | muebles         |
+|           27 | electronicos    |
+|           28 | alimentos       |
+|           29 | muebles         |
+|           30 | electronicos    |
+|           31 | alimentos       |
+|           32 | muebles         |
+|           33 | electronicos    |
+|           34 | alimentos       |
+|           35 | muebles         |
+|           36 | electronicos    |
+|           37 | alimentos       |
+|           38 | muebles         |
+|           39 | electronicos    |
+|           40 | alimentos       |
+|           41 | muebles         |
+|           42 | electronicos    |
+|           43 | alimentos       |
+|           44 | muebles         |
+|           45 | electronicos    |
+|           46 | alimentos       |
+|           47 | muebles         |
+|           48 | electronicos    |
+|           49 | final           |
+|           50 | alimentos       |
+|           51 | muebles         |
+|           52 | electronicos    |
+|           53 | electronicos123 |
+|           54 | electronicos123 |
+|           55 | electronicos123 |
+|           56 | electronicos123 |
+|           57 | pepe            |
+|           58 | pepe            |
+|           59 | pepe            |
+|           60 | pepe            |
++--------------+-----------------+
+60 rows in set (0.00 sec)
+
+--------------
+sdsdss
+--------------
+
+--------------
+select * from categoria
+--------------
+
++--------------+-----------------+
+| id_categoria | nombre          |
++--------------+-----------------+
+|            1 | alimentos       |
+|            2 | muebles         |
+|            3 | electronicos    |
+|            4 | pesca           |
+|            5 | pesca           |
+|            6 | opciones        |
+|            7 | electricos      |
+|            8 | otro2           |
+|            9 | alimentos2      |
+|           10 | alimento3       |
+|           11 | alimento4       |
+|           12 | alimentos5      |
+|           13 | alimentos6      |
+|           14 | cat3            |
+|           15 | ultimo          |
+|           16 | alimentos       |
+|           17 | muebles         |
+|           18 | electronicos    |
+|           19 | alimentos       |
+|           20 | muebles         |
+|           21 | electronicos    |
+|           22 | alimentos       |
+|           23 | muebles         |
+|           24 | electronicos    |
+|           25 | alimentos       |
+|           26 | muebles         |
+|           27 | electronicos    |
+|           28 | alimentos       |
+|           29 | muebles         |
+|           30 | electronicos    |
+|           31 | alimentos       |
+|           32 | muebles         |
+|           33 | electronicos    |
+|           34 | alimentos       |
+|           35 | muebles         |
+|           36 | electronicos    |
+|           37 | alimentos       |
+|           38 | muebles         |
+|           39 | electronicos    |
+|           40 | alimentos       |
+|           41 | muebles         |
+|           42 | electronicos    |
+|           43 | alimentos       |
+|           44 | muebles         |
+|           45 | electronicos    |
+|           46 | alimentos       |
+|           47 | muebles         |
+|           48 | electronicos    |
+|           49 | final           |
+|           50 | alimentos       |
+|           51 | muebles         |
+|           52 | electronicos    |
+|           53 | electronicos123 |
+|           54 | electronicos123 |
+|           55 | electronicos123 |
+|           56 | electronicos123 |
+|           57 | pepe            |
+|           58 | pepe            |
+|           59 | pepe            |
+|           60 | pepe            |
++--------------+-----------------+
+60 rows in set (0.00 sec)
+
+--------------
+sdsdss
+--------------
+
+--------------
+select * from categoria
+--------------
+
++--------------+-----------------+
+| id_categoria | nombre          |
++--------------+-----------------+
+|            1 | alimentos       |
+|            2 | muebles         |
+|            3 | electronicos    |
+|            4 | pesca           |
+|            5 | pesca           |
+|            6 | opciones        |
+|            7 | electricos      |
+|            8 | otro2           |
+|            9 | alimentos2      |
+|           10 | alimento3       |
+|           11 | alimento4       |
+|           12 | alimentos5      |
+|           13 | alimentos6      |
+|           14 | cat3            |
+|           15 | ultimo          |
+|           16 | alimentos       |
+|           17 | muebles         |
+|           18 | electronicos    |
+|           19 | alimentos       |
+|           20 | muebles         |
+|           21 | electronicos    |
+|           22 | alimentos       |
+|           23 | muebles         |
+|           24 | electronicos    |
+|           25 | alimentos       |
+|           26 | muebles         |
+|           27 | electronicos    |
+|           28 | alimentos       |
+|           29 | muebles         |
+|           30 | electronicos    |
+|           31 | alimentos       |
+|           32 | muebles         |
+|           33 | electronicos    |
+|           34 | alimentos       |
+|           35 | muebles         |
+|           36 | electronicos    |
+|           37 | alimentos       |
+|           38 | muebles         |
+|           39 | electronicos    |
+|           40 | alimentos       |
+|           41 | muebles         |
+|           42 | electronicos    |
+|           43 | alimentos       |
+|           44 | muebles         |
+|           45 | electronicos    |
+|           46 | alimentos       |
+|           47 | muebles         |
+|           48 | electronicos    |
+|           49 | final           |
+|           50 | alimentos       |
+|           51 | muebles         |
+|           52 | electronicos    |
+|           53 | electronicos123 |
+|           54 | electronicos123 |
+|           55 | electronicos123 |
+|           56 | electronicos123 |
+|           57 | pepe            |
+|           58 | pepe            |
+|           59 | pepe            |
+|           60 | pepe            |
++--------------+-----------------+
+60 rows in set (0.00 sec)
+
+--------------
+sdsdss
+--------------
+
+--------------
+sddds
+--------------
+
+--------------
+select * from t
+--------------
+
+--------------
+select * from t
+--------------
+
+--------------
+select * from t
+--------------
+
